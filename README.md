@@ -1,4 +1,4 @@
-# Java Library System
+# Java Marketplace Inventory
 
 ## Description
 
